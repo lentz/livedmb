@@ -1,0 +1,125 @@
+<html>
+<head>
+<title>Dave Matthews Band - The Jimi Thing: Tablature</title>
+<meta name=target content="tabs, tab, tablature, guitar, music, sheet music, sheet, chords, guitar tab, guitar tablature, violin tab, bass tab, bass tablature">
+     <META name="keywords" content="Dave Matthews Band, dave matthews, dave, DAVE MATTHEWS BAND, dmb, DMB, Carter Beuford, carter beuford, leroi moore, Leroi Moore, Stephan Lessard, stephan lessard, boyde tinsley, Boyde Tinsley, foxboro, Foxboro, Live, deer creek, Deer Creek, rare, bootlegs, tape trading, Tape Trading, Rock, Pop, Mainstream, Jazz, Dave Matthews, Ants Marching, Crash, Tripping Billies, Typical Situation, Rapunzel, dave talk, music, lyrics, audio files, mp3, real audio, info, concerts, tickets, live, performances, MP3, SONGS, under the table and dreaming, crash, jimi thing, jesse">
+<style type="text/css">
+	Body {color: #FFFFFF; background: #000000}
+	A:link {color: #FFD700; text-decoration: none}
+	A:active {color: #FFD700; text-decoration: none}
+	A:visited {color: #FFD700; text-decoration: none}
+	A:hover {color: #FFD700; text-decoration: underline}
+</style>
+</head>
+<body>
+<table border=0 cellpadding=0 cellspacing=0>
+ <tr>
+  <td rowspan="2"><a href="http://www.speakeasy.org/~lentz/index.html"><img src="http://www.speakeasy.org/~lentz/davetitle.jpg" height="199" border="0" width="277" alt="Home"></a><br><img src="spacer.jpg" width="277" height="3"></td><td align="left"><img src="http://www.speakeasy.org/~lentz/links.jpg" valign="bottom" height="199" width="373" border="0" usemap="#links">
+	<map name="links">
+	<area href="http://www.speakeasy.org/~lentz/lyrics.html" ALT="Music Lyrics" shape="rect" coords="47,155,91,197">
+	<area href="http://www.speakeasy.org/~lentz/audio.html" ALT="Great Songs from all his Albums" shape="rect" coords="139,155,177,197">
+	<area href="http://www.speakeasy.org/~lentz/davetalk.html" ALT="Dave Talk!" shape="rect" coords="215,155,276,200">
+	<area href="http://www.speakeasy.org/~lentz/links.html" ALT="Other Great Dave Matthews Sites" shape="rect" coords="313,156,351,198">
+  </map></td>
+ </tr>
+</table>
+<center>
+<img src="http://www.speakeasy.org/~lentz/tabtitle.jpg"><br>
+<h4>Here are tabs to all of DMB's currently released songs as well as many rare and unreleased ones.  Please note that these are not definitely accurate as I do not play the guitar and have no way of knowing what it sounds like and these are just people's interpretations.  If you have a tab that is your interpretation and feel it is better than one we have here, feel free to send it to <a href="mailto:tabs@livedmb.cjb.net">tabs@livedmb.cjb.net</a>.  I would like to thank all of the people who created these tabs for knowing a lot more about Dave's guitar playing then me.</h4><br><br>
+
+<h2>Everyday <i>(in progress)</i></h2>
+<a href="ididit.txt">I Did It</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/everyday.html#idi"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="spacebetween.txt">The Space Between</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/everyday.html#spa"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="angel-everyday.txt">Angel</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/everyday.html#ang"><img src="lyrics.jpg" width=40 height=15 border=0></a><br><br>
+
+
+<h2>Rember Two Things</h2>
+<a href="Ants.txt">Ants Marching</a>(<a href="antsB.txt">Bass</a>)(<a href="antsVIOLIN.txt">Violin</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/remember.html#ant"><img src="lyrics.jpg" width=40 height=15 border=0></a></a><br>
+<a href="Trippin.txt">Tripping Billies</a>(<a href="trippingVIOLIN.txt">Violin</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/remember.html#tri"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Recently.txt">Recently</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/remember.html#rec"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Satellite.txt">Satellite</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/remember.html#sat"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="One_Sweet_World.txt">One Sweet World</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/remember.html#one"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Jane.txt">The Song That Jane Likes</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/remember.html#son"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Minarets.txt">Minarets</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/remember.html#min"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Seek_Up.txt">Seek Up</a>(<a href="seekupV.txt">Violin</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/remember.html#see"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Ill_Back.txt">I'll Back You Up</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/remember.html#ill"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Christmas.txt">Christmas Song</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/remember.html#chr"><img src="lyrics.jpg" width=40 height=15 border=0></a><br><br>
+
+<h2>Under the Table and Dreaming</h2>
+<a href="Best.txt">The Best of What's Around</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/under.html#bes"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="WWYS.txt">What Would You Say</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/under.html#wha"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Satellite.txt">Satellite</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/under.html#sat"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Rhyme.txt">Rhyme and Reason</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/under.html#rhy"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Typical.txt">Typical Situation</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/under.html#typ"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Nancies.txt">Dancing Nancies</a>(<a href="nanciesV.txt">Violin</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/under.html#dan"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Ants.txt">Ants Marching</a>(<a href="antsB.txt">Bass</a>)(<a href="antsVIOLIN.txt">Violin</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/under.html#ant"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+
+<a href="Lover.txt">Lover Lay Down</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/under.html#lov"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Jimi.txt">Jimi Thing</a>(<a href="jimiV.txt">Violin</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/under.html#jim"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Warehouse.txt">Warehouse</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/under.html#war"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Pay4.txt">Pay For What You Get</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/under.html#pay"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="34.txt">No. 34</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+
+<h2>Crash</h2>
+<a href="SMTS.txt">So Much To Say</a>(<a href="somuchB.txt">Bass</a>)(<a href="somuchV.txt">Violin</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/crash.html#somuch"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="2step.txt">Two Step</a>(<a href="2stepB.txt">Bass</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/crash.html#two"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="crash.txt">Crash In To Me</a>(<a href="crashB.txt">Bass</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/crash.html#crash"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="too_much.txt">Too Much</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/crash.html#toomuch"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="41.txt">No. 41</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/crash.html#41"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Goodbye.txt">Say Goodbye</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/crash.html#goodbye"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Drive.txt">Drive In Drive Out</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/crash.html#drive"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="LYD.txt">Let You Down</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/crash.html#let"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Graves.txt">Lie In Our Graves</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<a href="Freedom.txt">Cry Freedom</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/crash.html#cry"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Trippin.txt">Tripping Billies</a>(<a href="trippingVIOLIN.txt">Violin</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/crash.html#tripping"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="proudestmonkey.txt">Proudest Monkey</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/crash.html#monkey"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+
+<h2>Before These Crowded Streets</h2>
+<a href="pantala.txt">Pantala Naga Pampa</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/before.html#pan"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="rapunzel.txt">Rapunzel</a>(<a href="rapunzelB.txt">Bass</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/before.html#rap"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="laststop.txt">The Last Stop</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/before.html#las"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="DDTW.txt">Don't Drink The Water</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/before.html#don"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="stay.txt">Stay</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/before.html#sta"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="stone.txt">The Stone</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/before.html#sto"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="crush.txt">Crush</a>(<a href="crushB.txt">Bass</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/before.html#cru"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Halloween.txt">Halloween</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/before.html#hal"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="dreaming.txt">The Dreaming Tree</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/before.html#dre"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="pigspoonTRANS.txt">Pig</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/before.html#pig"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="spoon.txt">Spoon</a>(<a href="spoonoutro.txt">Spoon Outro</a>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/before.html#spo"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+
+<h2>Rare and Unreleased Songs</h2>
+<a href="Angel.txt">Angel from Montgomery</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/unreleased.html#ang"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="chicago.txt">Is Chicago, Is Not Chicago</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/unreleased.html#isc"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="getinline.txt">Get In Line</a><br>
+<a href="Granny.txt">Granny</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/unreleased.html#gra"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="Help.txt">Help Myself</a><br>
+<a href="hold.txt">Hold Me Down</a><br>
+<a href="Maker.txt">The Maker</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/unreleased.html#mak"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="36.txt">#36</a><br>
+<a href="40.txt">#40</a><br>
+<a href="Spotlight.txt">Spotlight</a><br>
+<a href="DBTP.txt">Don't Burn the Pig</a><br>
+<a href="heath.txt">Heathcliff's Haiku Warriors</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/unreleased.html#hea"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="julio.txt">Me and Julio Down by the Schoolyard</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/unreleased.html#mea"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="truereflections.txt">True Reflections</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/unreleased.html#tru"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="toysoldiers.txt">Toy Soldiers</a><br>
+<a href="wwbom.txt">What Will Become of Me</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/unreleased.html#wha"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="littlething.txt">Little Thing</a><br>
+<a href="baboon.txt">Blue Water Baboon Farm</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/unreleased.html#blu"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="doobie.txt">Doobie Thing</a><br>
+<a href="LMP.txt">Leave Me Praying</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/unreleased.html#lea"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="tangerine.txt">Tangerine</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.speakeasy.org/~lentz/unreleased.html#tan"><img src="lyrics.jpg" width=40 height=15 border=0></a><br>
+<a href="mother.txt">Mother's Night</a><br><br>
+
+<font color="#104E8B"><h2>Other Tab Links</h2></font>
+<a href="http://members.home.com/beauford/html/tabs.html" target="_blank">Drum Tabs</a><br>
+<a href="http://meded.com.uci.edu/~nprakash/toomuch.JPG" target="_blank">Too Much written out By Hand</a><br>
+
+
+</center>
+<br><center><hr width="90%" color="#900000">&nbsp;|&nbsp;<a href="http://www.speakeasy.org/~lentz/index.html">Home</a>&nbsp;|&nbsp;<a href="http://www.speakeasy.org/~lentz/audio.html">Audio</a>&nbsp;|&nbsp;<a href="http://www.speakeasy.org/~lentz/lyrics.html">Lyrics</a>&nbsp;|&nbsp;<a href="http://www.speakeasy.org/~lentz/davetalk.html">Dave Talk!</a>&nbsp;|&nbsp;<a href="http://www.speakeasy.org/~lentz/trades/trades.html">CD Trades</a>&nbsp;|&nbsp;<a href="http://www.speakeasy.org/~lentz/bio.html">Biography</a>&nbsp;|&nbsp;<a href="http://www.speakeasy.org/~lentz/links.html">Links</a>&nbsp;|&nbsp;<hr width="90%" color="#900000"></center>
+</body>
+</html>
+
+
+
